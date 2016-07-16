@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title>SVG/Scaleable Vector Graphics: 5 x Coloured Squares</title>
+ </head>
+ <body>
+  <svg width="250" height="250" style="background:aqua">
+   <rect x="10" y="10" width="100" height="100" fill="teal"></rect>
+   <rect x="20" y="20" width="100" height="100" fill="#FFFFFF"></rect>
+   <rect x="30" y="30" width="100" height="100" fill="rgb(255,0,0)"></rect>
+   <rect x="40" y="40" width="100" height="100" fill="rgba(0,255,0,0.5" stroke="black" stroke-width="1"></rect>
+  </svg>
+ </body>
+</html>
