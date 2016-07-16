@@ -2,7 +2,7 @@
 <html lang="en">
  <head>
   <meta charset="UTF-8">
-  <title>SVG/Scaleable Vector Graphics: 4 x Coloured Squares</title>
+  <title>SVG/Scaleable Vector Graphics: 4 x Overlapping Coloured Squares</title>
  </head>
  <body>
   <svg width="250" height="250" style="background:aqua">
