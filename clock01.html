@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+ <!--some old code I wrote copied from a graphic file I'd saved at...
+https://www.redbubble.com/people/paulramnora/works/10130013-svg-scaleable-vector-graphics-230313-digital-screenprint?c=27369-programming
+
+  Here is the original W3Schools SVG tutorial that my above code was based on.
+  https://www.w3schools.com/graphics/svg_intro.asp
+ -->
+
+ <head>
+  <meta charset="utf-8">
+  <title>SVG Test</title>  
+  <style>
+   header,#graphic,footer{text-align:center;}
+  </style>
+ </head>
+
+ <body>
+
+  <header>
+   <h1>SVG Test</h1>
+  </header>
+
+  <!--what this SVG program displays is...
+      A circle...with a line inside...extending out from the middle of the circle;
+      together with an ellipse circle at the bottom;
+      and, some text saying: 9 PM.
+
+      The idea was to simulate a picture of a 'clock'...
+      showing just the hour hand, alone, indicating: 9 PM.-->
+
+  <!--my original heading said...without curly brackets:()...
+  (<)svg xmlns="http://www.w3.org/2000/svg" version="1.1"(>)
+  ...but, when I went to...
+  https://www.w3schools.com/graphics/svg_intro.asp
+  ...their example showed the xmlns=address part can be left out...
+  and, replaced with width=""/height="", instead.
+  -->
+   
+<div id="graphic">
+
+   <svg width="200" height="160"style="background:black">
+
+   <circle cx="100" cy="50" r="40" stroke="yellow" stroke-width="5" fill="red" />
+   <line x1="100" y1="50" x2="50" y2="50" stroke="orange" stroke-width="5" />
+   <ellipse cx="100" cy="110" rx="40" ry="10" stroke="red" stroke-width="5" fill="yellow" />
+  
+   <text x="80" y="145" fill="orange">9 PM</text>
+
+  </svg>
+
+</div>
+
+   <!--NOTE(1): This is XML...and, therefore, the end: '/>' is absolutely essential;
+                because without this ending tag...shapes go missing...?!-->
+
+   <!--NOTE(2): You have to be really careful where you place co-ordinates;
+                because if you go outside of the box/(invisible because background is 'white'); 
+                then, the placed item would no longer be visible, anymore...?!-->
+
+   <footer>
+    <p>
+     Created: <i>21:39 04/10/2019</i>
+     <br>
+     Updated: <i>21:39 04/10/2019</i>
+    </p>
+   </footer>
+
+ </body>
+
+</html>
