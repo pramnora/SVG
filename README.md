@@ -27,4 +27,5 @@ which, in turn, means the web page both downloads and runs really 'fast'.
 
 2. The other most highly noticiable feature of SVG graphics is they can be 'resized' without loosing 'quality';          
 which is quite unlike other 'lossy' graphic file formats such as: .jpg/.gif./-etc.;    
-in other words, SVG graphics do NOT look pixelated when you either blow them up/or else, shrink them down.   
+in other words, SVG graphics do NOT look pixelated when you either blow them up/or else, shrink them down;    
+and, this is because SVG Graphics are calculated mathematically.     
