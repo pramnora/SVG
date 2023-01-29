@@ -1,8 +1,7 @@
 # SVG
 SVG/Scalable Vector Graphics program code
 
-
-SVG, allows the web page use to create both 'still' graphics/as well as, 'moving' animations.
+SVG, allows the web page user to create both 'still' graphics/as well as, 'moving' animations.
 
 It's possible to use SVG to draw such shapes as...
 
@@ -10,8 +9,8 @@ It's possible to use SVG to draw such shapes as...
 - oblongs
 - squares
 - circles
-- ellipse
+- ellipses
 - polyline
-- polygone
+- polygon
 - path
 
