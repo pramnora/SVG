@@ -22,8 +22,9 @@ There are 2 main advantages to using SVG code:-
 
 1. SVG graphics code, is all written out as being in the form of text;     
 and, therefore, the file sizes can be very 'light weight'...;  
-especially, when compared to other graphic file formats.   
+especially, when compared to other graphic file formats;  
+which, in turn, means the web page both downloads and runs really 'fast'.   
 
-2. Another most noticiable feature of SVG graphics is they can be 'resized' without loosing 'quality';          
+2. The other most highly noticiable feature of SVG graphics is they can be 'resized' without loosing 'quality';          
 which is quite unlike other 'lossy' graphic file formats such as: .jpg/.gif./-etc.;    
 in other words, SVG graphics do NOT look pixelated when you either blow them up/or else, shrink them down.   
