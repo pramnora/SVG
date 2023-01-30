@@ -60,7 +60,8 @@ Alternatively, you may wish to colour in the box a certain specific colour, agai
 Line
 
 &lt;line x1="10" y2="10" x2="25" y2="70" stroke="black" stroke-width="4"&gt;    
-&lt;line x1="10" y2="10" x2="25" y2="70" style="stroke:black";stroke-width:4"&gt;     
+&lt;line x1="10" y2="10" x2="25" y2="70" style="stroke:black;stroke-width:4"&gt;     
+&lt;line x1="10" y2="10" x2="25" y2="70" style="stroke:rbg(0,0,0);stroke-width:4"&gt;       
 
 This program demonstrates how to draw a square using 4 straight lines...   
 
