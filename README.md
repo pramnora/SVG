@@ -42,14 +42,14 @@ The circle has the following properties...
 
 circle cx,cy,r,stroke,stroke-width,fill
 
-- cx, horizontal co-ordinate  
-- cy, vertical co-ordinate  
+- cx, circle horizontal co-ordinate/(How far from left side of screen...)    
+- cy, circle vertical co-ordinate/(How far from top of screen...)    
 - r, circle radius  
 - stroke, circle outline colour  
 - stroke-width, circle outline width  
 - fill, circle inside colour  
 
-circle cx="50" cy="50" stroke="yellow" stroke-width="4" fill="green"
+circle cx="50" cy="50" r="25" stroke="yellow" stroke-width="4" fill="green"
 
 -----
 
