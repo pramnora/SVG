@@ -51,6 +51,12 @@ circle cx,cy,r,stroke,stroke-width,fill
 
 circle cx="50" cy="50" r="25" stroke="yellow" stroke-width="4" fill="green"
 
+...will create a green circle/with a yellow outline...outline size 4 pixels;      
+50 pixels out from the left side of the screen/50 pixels down from the top of the screen;  
+with a radius size of 25 pixels.
+
+
+
 -----
 
 Rect
