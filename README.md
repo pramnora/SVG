@@ -121,10 +121,13 @@ Ellipse
 
 &lt;ellipse cx="50" cy="50" rx="10" ry="10" style="fill:red;stroke:yellow;stroke-width:4;"&gt;  
 
-cx, ellipse horizontal co-ordinate/(How far along from left of screen...)  
-cy, ellipse vertical co-ordinate/(How far down from top of screen...)  
-rx, ellipse horizontal radius  
-ry, ellipse vertical radius  
+cx, ellipse horizontal co-ordinate/(How far along from left of screen...)    
+cy, ellipse vertical co-ordinate/(How far down from top of screen...)   
+rx, ellipse horizontal radius    
+ry, ellipse vertical radius    
+fill, ellipse fill colour  
+stroke, ellipse stroke outline colour  
+stroke-width, ellipse stroke outline width size  
 
 -----
 
