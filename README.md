@@ -36,6 +36,17 @@ EXAMPLE CODES
 
 -----
 
+The opening and closing SVG-/SVG tags...
+
+The first thing one does when one is creating SVG Code...is to declare a pair of opening and closing SVG-/SVG tags...;  
+then, next, one includes both the width/height properties of the box shape you wish to draw in:-    
+
+&lt;svg width="100" height="100"&gt;    
+-(the rest of the svg code will be written inside here...)-  
+&lt;svg&gt;  
+
+-----
+
 Circle
 
 The circle has the following properties...
@@ -55,7 +66,7 @@ circle cx,cy,r,stroke,stroke-width,fill
 50 pixels out from the left side of the screen/50 pixels down from the top of the screen;  
 with a radius size of 25 pixels.
 
--(**NOTE**: Because SVG is also an application of XML; therefore, it's necessary to close off an single tag with an ending forwards slash: /.)-  
+-(**NOTE**: Because SVG is also an application of XML; therefore, it's necessary to close off any single tag with an ending forwards slash: '/'.)-  
 
 -----
 
