@@ -49,13 +49,13 @@ circle cx,cy,r,stroke,stroke-width,fill
 - stroke-width, circle outline width  
 - fill, circle inside colour  
 
-&lt;circle cx="50" cy="50" r="25" stroke="yellow" stroke-width="4" fill="green"&gt;
+&lt;circle cx="50" cy="50" r="25" stroke="yellow" stroke-width="4" fill="green" /&gt;
 
 ...will create a green circle/with a yellow outline...outline size 4 pixels in width;       
 50 pixels out from the left side of the screen/50 pixels down from the top of the screen;  
 with a radius size of 25 pixels.
 
-
+-(**NOTE**: Because SVG is also an application of XML; therefore, it's necessary to close off an single tag with an ending forwards slash: /.)-  
 
 -----
 
