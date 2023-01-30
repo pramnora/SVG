@@ -45,6 +45,18 @@ next, one includes both the 'width/height' properties of the box shape you wish 
 -(the rest of the svg code will be written inside here...)-  
 &lt;/svg&gt;  
 
+Or, you might wish to draw a CSS outline border to more clearly indicate where you SVG box is on the page...  
+
+&lt;svg width="100" height="100" style="border: solid black 1px;"&gt;    
+-(the rest of the svg code will be written inside here...)-  
+&lt;/svg&gt;  
+
+Alternatively, you may wish to colour in the box a certain colour, again, using CSS...  
+
+&lt;svg width="100" height="100" style="background-color:red"&gt;    
+-(the rest of the svg code will be written inside here...)-  
+&lt;/svg&gt;  
+
 -----
 
 Circle
