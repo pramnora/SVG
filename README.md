@@ -85,3 +85,22 @@ with a radius size of 25 pixels.
 Rect
 
 -----
+
+The rect tag...which produces a rectangle shape...has the following properties...
+
+-----
+
+##Links
+
+-----
+
+###Tutorials
+
+W3Schools...
+
+- https://www.w3schools.com/graphics/svg_intro.asp  
+
+
+
+
+
