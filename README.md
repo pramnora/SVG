@@ -84,6 +84,11 @@ This program demonstrates how to draw a square using 4 straight lines...
 
 &lt;/svg&gt;  
 
+The first 2...x1,y1 co-ordinates indicate the start of the line;   
+the last 2...x2,y2 co-ordinates indicate the end of the line;  
+the x co-ordinate indicates the line position from the left side of the screen;   
+the y co-ordinate indicates the line position from the top side of the screen.  
+
 -----
 
 Circle
