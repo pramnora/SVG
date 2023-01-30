@@ -43,7 +43,7 @@ next, one includes both the 'width/height' properties of the box shape you wish 
 
 &lt;svg width="100" height="100"&gt;    
 -(the rest of the svg code will be written inside here...)-  
-&lt;svg&gt;  
+&lt;/svg&gt;  
 
 -----
 
