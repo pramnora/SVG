@@ -29,3 +29,30 @@ which, in turn, means the web page both downloads and runs really 'fast'.
 which is quite unlike other 'lossy' graphic file formats such as: .jpg/.gif./-etc.;    
 in other words, SVG graphics do NOT look pixelated when you either blow them up/or else, shrink them down;    
 and, this is because SVG Graphics are calculated mathematically.     
+
+-----
+
+EXAMPLE CODES
+
+-----
+
+Circle
+
+The circle has the following properties...
+
+circle cx,cy,r,stroke,stroke-width,fill
+
+cx, horizontal co-ordinate
+cy, vertical co-ordinate
+r, circle radius
+stroke, circle outline colour
+stroke-width, circle outline width
+fill, circle inside colour
+
+circle cx="50" cy="50" stroke="yellow" stroke-width="4" fill="green"
+
+-----
+
+Rect
+
+-----
