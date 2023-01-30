@@ -146,7 +146,7 @@ Text
 
 &lt;text x="50" y="50" fill="orange"&gt;  
 SVG Graphics is really cool!  
-&lt;text&gt;  
+&lt;/text&gt;  
 
 The x co-ordinate places the text horizontal position;    
 the y co-ordinate places the text vertical position;   
