@@ -97,8 +97,6 @@ stroke, rectangle outline colour
 stroke-width, rectangle outline width size  
 stroke-opacity, rectangle outline opacity   
 
-&lt;rect x="50" y="50" width="50" height="50" style="stroke:yellow; stroke-width; 4; fill:green"; /&gt;
-
 &lt;rect width="300" height="100" style="fill:green;stroke-width:3;stroke:yellow"; />  
 &lt;rect x=50, y=50 width="300" height="100" style="fill:rgb(0,255,0);stroke-width:3;stroke:rgb(255,255,0);" />  
 &lt;rect x=50, y=50 width="300" height="100" style="fill:rgb(0,255,0);fill-opacity:0.5;stroke-width:3;stroke:rgb(255,255,0);stroke-opacity:0.1);" />  
