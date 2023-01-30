@@ -51,7 +51,7 @@ Or, you might wish to draw a CSS outline border to more clearly indicate where y
 -(the rest of the svg code will be written inside here...)-  
 &lt;/svg&gt;  
 
-Alternatively, you may wish to colour in the box a certain colour, again, using CSS...  
+Alternatively, you may wish to colour in the box a certain specific colour, again, using CSS...  
 
 &lt;svg width="100" height="100" style="background-color:red"&gt;    
 -(the rest of the svg code will be written inside here...)-  
