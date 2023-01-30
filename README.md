@@ -34,8 +34,6 @@ and, this is because SVG Graphics are calculated mathematically.
 
 ## Example codes
 
------
-
 The opening and closing SVG-/SVG tags...
 
 The first thing one does when one is creating SVG Code...is to declare a pair of opening and closing 'SVG'-'/SVG' tags...;   
@@ -91,8 +89,6 @@ The rect tag...which produces a rectangle shape...has the following properties..
 -----
 
 ## Links
-
------
 
 ### Tutorials
 
