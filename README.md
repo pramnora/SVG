@@ -42,12 +42,12 @@ The circle has the following properties...
 
 circle cx,cy,r,stroke,stroke-width,fill
 
-cx, horizontal co-ordinate
-cy, vertical co-ordinate
-r, circle radius
-stroke, circle outline colour
-stroke-width, circle outline width
-fill, circle inside colour
+- cx, horizontal co-ordinate  
+- cy, vertical co-ordinate  
+- r, circle radius  
+- stroke, circle outline colour  
+- stroke-width, circle outline width  
+- fill, circle inside colour  
 
 circle cx="50" cy="50" stroke="yellow" stroke-width="4" fill="green"
 
