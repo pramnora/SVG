@@ -55,6 +55,16 @@ Alternatively, you may wish to colour in the box a certain specific colour, agai
 -(the rest of the svg code will be written inside here...)-  
 &lt;/svg&gt;  
 
+
+&lt;svg width="100" height="100"&gt;  
+-(SVG code goes inside here...)-  
+Sorry, your browser does not support inline SVG.  
+&lt;/svg&gt;   
+
+-(**NOTE**: In this last example, if the users browser doesn't understand SVG codes...;    
+then, the error message will display; otherwise, not.)-  
+
+
 -----
 
 Line
