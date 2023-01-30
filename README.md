@@ -59,6 +59,9 @@ Alternatively, you may wish to colour in the box a certain specific colour, agai
 
 Line
 
+Here are 3 examples of exactly the same line being drawn...; only using 3 slightly different methods to do it.  
+The first example using pure XML code; and, the other 2 examples do employ the use of XML/intermixed with CSS code.    
+
 &lt;line x1="10" y2="10" x2="25" y2="70" stroke="black" stroke-width="4"&gt;    
 &lt;line x1="10" y2="10" x2="25" y2="70" style="stroke:black;stroke-width:4"&gt;     
 &lt;line x1="10" y2="10" x2="25" y2="70" style="stroke:rbg(0,0,0);stroke-width:4"&gt;       
@@ -86,8 +89,8 @@ This program demonstrates how to draw a square using 4 straight lines...
 
 The first 2...x1,y1 co-ordinates indicate the start of the line;   
 the last 2...x2,y2 co-ordinates indicate the end of the line;  
-the x co-ordinate indicates the line position from the left side of the screen;   
-the y co-ordinate indicates the line position from the top side of the screen.  
+the x co-ordinate indicates the line's horizontal position from the left hand side of the screen;   
+the y co-ordinate indicates the line's vertical position from the top side of the screen.  
 
 -----
 
