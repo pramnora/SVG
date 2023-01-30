@@ -57,6 +57,34 @@ Alternatively, you may wish to colour in the box a certain specific colour, agai
 
 -----
 
+Line
+
+&lt;line x1="10" y2="10" x2="25" y2="70" stroke="black" stroke-width="4"&gt;  
+
+
+This program demonstrates how to draw a square using 4 straight lines...   
+
+&lt;svg width="100"   
+     height="100"  
+     style="border:solid black 1px;"  
+&gt;  
+
+&lt;!--draws a left vertical line going downwards--&gt;  
+&lt;line x1="25" y1="25" x2="25" y2="70" stroke="black" stroke-width="1" /&gt;   
+
+&lt;!--draws a right vertical line going downwards--&gt;  
+&lt;line x1="70" y1="25" x2="70" y2="70" stroke="black" stroke-width="1" /&gt;   
+
+&lt;!--draws a top horizontal line going across--&gt;  
+&lt;line x1="25" y1="25" x2="70" y2="25" stroke="black" stroke-width="1" /&gt;   
+
+&lt;!--draws a bottom horizontal line going across--&gt;  
+&lt;line x1="25" y1="70" x2="70" y2="70" stroke="black" stroke-width="1" /&gt;   
+
+&lt;/svg&gt;  
+
+-----
+
 Circle
 
 The circle has the following properties...
