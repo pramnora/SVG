@@ -40,7 +40,7 @@ Circle
 
 The circle has the following properties...
 
-&lt;circle cx,cy,r,stroke,stroke-width,fill&gt;
+circle cx,cy,r,stroke,stroke-width,fill
 
 - cx, circle horizontal co-ordinate/(How far from left side of screen...)    
 - cy, circle vertical co-ordinate/(How far from top of screen...)    
@@ -49,7 +49,7 @@ The circle has the following properties...
 - stroke-width, circle outline width  
 - fill, circle inside colour  
 
-circle cx="50" cy="50" r="25" stroke="yellow" stroke-width="4" fill="green"
+&lt;circle cx="50" cy="50" r="25" stroke="yellow" stroke-width="4" fill="green"&gt;
 
 ...will create a green circle/with a yellow outline...outline size 4 pixels in width;       
 50 pixels out from the left side of the screen/50 pixels down from the top of the screen;  
