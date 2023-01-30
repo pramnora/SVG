@@ -32,7 +32,7 @@ and, this is because SVG Graphics are calculated mathematically.
 
 -----
 
-EXAMPLE CODES
+## Example codes
 
 -----
 
@@ -90,11 +90,11 @@ The rect tag...which produces a rectangle shape...has the following properties..
 
 -----
 
-##Links
+## Links
 
 -----
 
-###Tutorials
+### Tutorials
 
 W3Schools...
 
