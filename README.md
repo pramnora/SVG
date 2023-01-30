@@ -38,8 +38,8 @@ EXAMPLE CODES
 
 The opening and closing SVG-/SVG tags...
 
-The first thing one does when one is creating SVG Code...is to declare a pair of opening and closing SVG-/SVG tags...;  
-then, next, one includes both the width/height properties of the box shape you wish to draw in:-    
+The first thing one does when one is creating SVG Code...is to declare a pair of opening and closing 'SVG'-'/SVG' tags...;   
+next, one includes both the 'width/height' properties of the box shape you wish to draw your SVG shapes in:-     
 
 &lt;svg width="100" height="100"&gt;    
 -(the rest of the svg code will be written inside here...)-  
