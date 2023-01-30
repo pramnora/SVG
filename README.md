@@ -117,6 +117,12 @@ with a radius size of 25 pixels.
 
 -----
 
+Ellipse
+
+&lt;ellipse cy="50" cx="50" rx="10" ry="10" style="fill:red;stroke:yellow;stroke-width:4;"&gt;  
+
+-----
+
 Rect
 
 -----
