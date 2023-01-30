@@ -40,7 +40,7 @@ Circle
 
 The circle has the following properties...
 
-&gt;circle cx,cy,r,stroke,stroke-width,fill&lt;
+&lt;circle cx,cy,r,stroke,stroke-width,fill&gt;
 
 - cx, circle horizontal co-ordinate/(How far from left side of screen...)    
 - cy, circle vertical co-ordinate/(How far from top of screen...)    
