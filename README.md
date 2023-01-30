@@ -144,9 +144,13 @@ stroke-opacity, rectangle outline opacity
 
 Text
 
-&lt;text x="50" y="50" fill="orange"&gt;  
-SVG Graphics is really cool!  
+&lt;text x="300" y="100" fill="orange"&gt;  
+SVG Graphics is really so cool...!  
 &lt;/text&gt;  
+
+&lt;text x="50" y="50" style="fill:orange;stroke:red;stroke-width:3;stroke-opacity:0.5;"&gt; 
+SVG Graphics is so cool...!
+&lt;/text&gt;
 
 The x co-ordinate places the text horizontal position;    
 the y co-ordinate places the text vertical position;   
