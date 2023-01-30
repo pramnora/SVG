@@ -91,11 +91,19 @@ y, rectangle vertical position/(How far down from top of the screen...)
 width, how wide the rectangle will be  
 height, how tall the rectangle will be  
 ...note: all the rest of the properties can be set using CSS...  
-fill, rectangle fill colour/(this may be either: RGB()/or, RGBA())  
+fill, rectangle fill colour/(RGB())  
 fill-opacity, rectangle fill colour opacity  
-stroke, rectangle outline colour/(this may be either: RGB()/or, RGBA())  
+stroke, rectangle outline colour/(RGB()) 
+stroke-width, rectangle outline width size
 stroke-opacity, rectangle outline opacity   
 
+&lt;rect x="50" y="50" width="50" height="50" style="stroke:yellow; stroke-width; 4; fill:green"; /&gt;
+
+&lt;rect width="300" height="100" style="fill:green;stroke-width:3;stroke:yellow"; />  
+&lt;rect x=50, y=50 width="300" height="100" style="fill:rgb(0,255,0);stroke-width:3;stroke:rgb(255,255,0);" />  
+&lt;rect x=50, y=50 width="300" height="100" style="fill:rgb(0,255,0);fill-opacity:0.5;stroke-width:3;stroke:rgb(255,255,0);stroke-opacity:0.1);" />  
+
+-(**NOTE**: If no x/y co-ordinates are specified; then, the rect shape starts at 0,0.)-  
 
 -----
 
