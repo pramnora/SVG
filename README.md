@@ -86,15 +86,15 @@ Rect
 
 The rect tag...which produces a rectangle shape...has the following properties...
 
-x, rectangle horizontal position/(How far from left side of the screen...)  
-y, rectangle vertical position/(How far down from top of the screen...)  
-width, how wide the rectangle will be
-height, how tall the rectangle will be
-...note: all the rest of the properties can be set using CSS...
-fill, rectangle fill colour/(this may be either: RGB()/or, RGBA())
-fill-opacity, rectangle fill colour opacity
-stroke, rectangle outline colour/(this may be either: RGB()/or, RGBA())
-stroke-opacity, rectangle outline opacity 
+x, rectangle horizontal position/(How far from left side of the screen...)   
+y, rectangle vertical position/(How far down from top of the screen...)    
+width, how wide the rectangle will be  
+height, how tall the rectangle will be  
+...note: all the rest of the properties can be set using CSS...  
+fill, rectangle fill colour/(this may be either: RGB()/or, RGBA())  
+fill-opacity, rectangle fill colour opacity  
+stroke, rectangle outline colour/(this may be either: RGB()/or, RGBA())  
+stroke-opacity, rectangle outline opacity   
 
 
 -----
